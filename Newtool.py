@@ -162,7 +162,7 @@ while (loop == 'true'):
 
             print "Wrong Password"
 
-            os.system('xdg-open https://www.facebook.com/mushfiq2421')
+            os.system('xdg-open https://www.facebook.com/Anonymoustricker1')
 
     else:
 
